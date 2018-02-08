@@ -2,6 +2,6 @@
 
 class SampleMain {
   def main(args: Array[String]): Unit = {
-    println("Hello World")
+    println("I am a test program")
   }
 }
